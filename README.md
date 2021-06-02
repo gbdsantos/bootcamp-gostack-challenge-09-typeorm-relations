@@ -36,7 +36,7 @@ This will be an application that should allow the creation of customers, product
 
 [:brazil: URL to challenge description](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-database-relations)
 
-Challenge completed on 2021-05-xx.
+Challenge completed on 2021-06-02.
 
 ## :gear: Getting Started
 
